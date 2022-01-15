@@ -9,7 +9,7 @@ try
 {
     while (true)
     {
-        var backgroundprocess = Process.GetProcesses().Where(pr => pr.MainWindowHandle != IntPtr.Zero);
+        var backgroundprocess = Process.GetProcessesByName("macro").Where(pr => pr.MainWindowHandle != IntPtr.Zero);
         Process[] processes = Process.GetProcessesByName("macro");
         if (processes.Length == 0)
         {
@@ -17,6 +17,7 @@ try
             Console.WriteLine("macro has crashed, restarting macro");
             foreach (var process in Process.GetProcessesByName("macro"))
             {
+                Console.WriteLine("Closing " + process);
                 process.Kill();
             }
             var patcherproc = Process.Start(AppDomain.CurrentDomain.BaseDirectory + @"\patcher.exe");
@@ -30,7 +31,7 @@ try
             Console.WriteLine("Macro running in background");
             foreach (Process proc in backgroundprocess)
             {
-                Console.WriteLine("closing macro in background " + proc.ProcessName);
+                Console.WriteLine("closing  " + proc.ProcessName + " in background");
                 proc.Kill();
             }
             var patcherproc = Process.Start(AppDomain.CurrentDomain.BaseDirectory + @"\patcher.exe");
