@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\bin\Debug\net6.0\MacroRestarter.exe
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\bin\Debug\net6.0\MacroRestarter.deps.json
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\bin\Debug\net6.0\MacroRestarter.runtimeconfig.json
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\bin\Debug\net6.0\MacroRestarter.dll
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\bin\Debug\net6.0\ref\MacroRestarter.dll
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\bin\Debug\net6.0\MacroRestarter.pdb
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\obj\Debug\net6.0\MacroRestarter.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\obj\Debug\net6.0\MacroRestarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\obj\Debug\net6.0\MacroRestarter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\obj\Debug\net6.0\MacroRestarter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\obj\Debug\net6.0\MacroRestarter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\obj\Debug\net6.0\MacroRestarter.dll
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\obj\Debug\net6.0\ref\MacroRestarter.dll
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\obj\Debug\net6.0\MacroRestarter.pdb
+C:\Users\Admin\source\repos\MacroRestarter\MacroRestarter\obj\Debug\net6.0\MacroRestarter.genruntimeconfig.cache
